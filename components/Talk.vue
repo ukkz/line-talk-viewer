@@ -24,7 +24,7 @@ onMounted(() => {
     hhmm + '\t作者うこ\t作者のTwitterへ気軽に問い合わせてね！\n' +
     'https://twitter.com/ukokq\n' +
     hhmm + '\t作者うこ\tソースコードはこちらで公開しています✍️\n' +
-    'https://github.com/ukkz/linetalkviewer'
+    'https://github.com/ukkz/line-talk-viewer'
   lineTalkState.target = welcome
 })
 </script>
